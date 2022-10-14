@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Michaels042
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Michael Nwachukwu
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning **Express NodeJS**
+- 💞️ I’m looking to collaborate on frontend web projects using **ReactJs or VueJs**
+- 📫 You can reach me on mnwachukwu042@gmail.com
 
-<!---
-Michaels042/Michaels042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a tech enthusiast that does front-end web development. I believe in the growth-mindset and i'm totally teachable.
+
+So feel free to hit me up
