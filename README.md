@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Michael Nwachukwu
 - 👀 I’m always working on a project
-- 💞️ My tech stack consists of React.js, Next.js, Vue.js, Express.js, and MongoDB
-- 📫 You can reach me on mnwachukwu042@gmail.com
+- 💞️ My tech stack consists of React.js, Next.js, Vue.js, Inertia.js, LAravel- PHP, Node js, Express.js, PostgreSQL, mySQL and MongoDB
+- 📫 You can reach me on michaels.nwachukwu@gmail.com
+- You can preview my portfolio on https://mykdevportfolio.netlify.app
